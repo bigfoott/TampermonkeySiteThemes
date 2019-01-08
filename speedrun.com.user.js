@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         speedrun.com
 // @match        https://www.speedrun.com/*
+// @exclude      https://www.speedrun.com/api/*
 // @grant        GM_addStyle
-// @run-at       document-start 
+// @run-at       document-start
 // ==/UserScript==
 
 GM_addStyle ( `
