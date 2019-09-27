@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         FUCK THE TWITCH REDESIGN
+// @name         BETTER TWITCH REDESIGN
 // @description  made by bigfoot
 // @match        https://www.twitch.tv/*
 // @grant        GM_addStyle
@@ -14,10 +14,6 @@ GM_addStyle ( `
 
 .tw-core-button--primary {
     --color-background-button-primary-default: rgb(100,64,165);
-}
-
-.tw-align-items-center > .tw-align-items-center.tw-justify-content-center {
-    justify-content: left!important;
 }
 
 body {
