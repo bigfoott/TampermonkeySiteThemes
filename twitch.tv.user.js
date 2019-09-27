@@ -12,6 +12,10 @@ GM_addStyle ( `
     font-family: Arial, sans-serif !important;
 }
 
+.tw-mg-l-3.tw-mg-t-3 > h1, .tw-mg-b-2 > h1 {
+    font-size: 3em;
+}
+
 .tw-core-button--primary {
     --color-background-button-primary-default: rgb(100,64,165);
 }
